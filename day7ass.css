@@ -1,0 +1,36 @@
+/* .error {
+    color: red;
+    
+} */
+
+/* ccccccccc*/
+#maindiv {
+    width: 500px;
+    margin: auto;
+    margin-top: 90px;
+    background-color: rgba(11, 211, 78, 0.3);
+    border-radius: 10px 10px;
+    padding: 30px 10px;
+    box-shadow: 2px 2px 10px rgba(83, 240, 91, 0.5);
+  }
+  body {
+    background-size: cover;
+    background-color: white;
+    /* background-image: url("https://cdn2.vectorstock.com/i/1000x1000/48/01/colorful-polygonal-background-abstract-form-vector-23254801.jpg");  */
+    
+  }
+  
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+  .form-check form-check-inline
+  {
+    display: flex;
+  }
